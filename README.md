@@ -1,4 +1,4 @@
-# JUMONGSO.GitHub.io
+# JUMONG.GitHub.io
 
 
 <html>
